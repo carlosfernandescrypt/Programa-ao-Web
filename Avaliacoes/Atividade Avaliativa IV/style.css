@@ -1,0 +1,24 @@
+body {
+    background-color: #202124;
+    padding: 15px;
+  }
+  
+h1 {
+    color: white;
+    text-align: center;
+  }
+
+h2 {
+    color: #8ab4f8;
+}
+
+h3 {
+    color: #bdc1c6;
+}
+  
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    color: #bdc1c6
+}
